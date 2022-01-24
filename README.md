@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Yun's Github Stats](https://github-readme-stats.vercel.app/api?username=blanche37&show_icons=true&theme=highcontrast)
 <!--
 **blanche37/blanche37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
