@@ -1,6 +1,14 @@
 ### Hi there 👋
+<div align=left>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fblanche37&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:wkddbsghk16@gmail.com)
 
+</div>
+  
 ![Yun's Github Stats](https://github-readme-stats.vercel.app/api?username=blanche37&show_icons=true&theme=highcontrast)
+
+
 <!--
 **blanche37/blanche37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
